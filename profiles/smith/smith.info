@@ -1,0 +1,4 @@
+name = Smith
+description = Install Smith client and project management profile.
+version = VERSION
+core = 7.x
