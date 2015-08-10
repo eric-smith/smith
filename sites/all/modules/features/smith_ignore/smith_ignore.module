@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Smith Ignore feature.
+ */
+
+include_once 'smith_ignore.features.inc';

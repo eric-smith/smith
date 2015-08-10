@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Smith User feature.
  */
+
+include_once 'smith_user.features.inc';

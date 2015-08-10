@@ -83,13 +83,6 @@ function smith_user_user_default_permissions() {
     'module' => 'features',
   );
 
-  // Exported permission: 'administer filters'.
-  $permissions['administer filters'] = array(
-    'name' => 'administer filters',
-    'roles' => array(),
-    'module' => 'filter',
-  );
-
   // Exported permission: 'administer modules'.
   $permissions['administer modules'] = array(
     'name' => 'administer modules',

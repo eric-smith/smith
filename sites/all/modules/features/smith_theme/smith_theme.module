@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Smith Theme feature.
+ */
+
+include_once 'smith_theme.features.inc';
