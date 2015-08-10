@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Smith Base feature.
+ */
+
+include_once 'smith_base.features.inc';
